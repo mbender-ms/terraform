@@ -1,420 +1,346 @@
-## 25 Jun 23 00:48 UTC
+## 26 Nov 23 02:33 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.6.2
+on linux_amd64
++ provider registry.terraform.io/hashicorp/azurerm v3.82.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 18 Jun 23 00:47 UTC
+## 19 Nov 23 04:34 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.6.2
+on linux_amd64
++ provider registry.terraform.io/hashicorp/azurerm v3.81.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 11 Jun 23 00:46 UTC
+## 12 Nov 23 01:10 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.6.0
+on linux_amd64
++ provider registry.terraform.io/hashicorp/azurerm v3.80.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 04 Jun 23 00:46 UTC
+## 05 Nov 23 01:07 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.6.0
+on linux_amd64
++ provider registry.terraform.io/hashicorp/azurerm v3.79.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 28 May 23 00:35 UTC
+## 29 Oct 23 01:16 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.6.0
+on linux_amd64
++ provider registry.terraform.io/hashicorp/azurerm v3.78.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 21 May 23 05:12 UTC
+## 22 Oct 23 05:59 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.5.7
+on linux_amd64
++ provider registry.terraform.io/hashicorp/azurerm v3.77.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 14 May 23 04:45 UTC
+## 15 Oct 23 06:05 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.5.7
+on linux_amd64
++ provider registry.terraform.io/hashicorp/azurerm v3.76.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 07 May 23 00:33 UTC
+## 08 Oct 23 05:39 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.5.6
+on linux_amd64
++ provider registry.terraform.io/hashicorp/azurerm v3.75.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 30 Apr 23 00:37 UTC
+## 01 Oct 23 01:11 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.5.6
+on linux_amd64
++ provider registry.terraform.io/hashicorp/azurerm v3.75.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 23 Apr 23 04:52 UTC
+## 24 Sep 23 05:23 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.5.6
+on linux_amd64
++ provider registry.terraform.io/hashicorp/azurerm v3.74.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 16 Apr 23 00:45 UTC
+## 20 Sep 23 11:45 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.5.6
+on linux_amd64
++ provider registry.terraform.io/hashicorp/azurerm v3.73.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 09 Apr 23 00:41 UTC
+## 17 Sep 23 05:24 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.5.5
+on linux_amd64
++ provider registry.terraform.io/hashicorp/azurerm v3.73.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 02 Apr 23 04:49 UTC
+## 10 Sep 23 05:47 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.5.4
+on linux_amd64
++ provider registry.terraform.io/hashicorp/azurerm v3.72.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 26 Mar 23 00:09 UTC
+## 01 Sep 23 11:40 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.5.4
+on linux_amd64
++ provider registry.terraform.io/hashicorp/azurerm v3.71.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 19 Mar 23 04:52 UTC
+## 03 Sep 23 01:05 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.5.4
+on linux_amd64
++ provider registry.terraform.io/azure/azapi v1.9.0
++ provider registry.terraform.io/hashicorp/azurerm v3.71.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 12 Mar 23 05:22 UTC
+## 27 Aug 23 05:59 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.5.4
+on linux_amd64
++ provider registry.terraform.io/azure/azapi v1.8.0
++ provider registry.terraform.io/hashicorp/azurerm v3.71.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 08 Mar 23 19:08 UTC
+## 20 Aug 23 00:53 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.5.3
+on linux_amd64
++ provider registry.terraform.io/azure/azapi v1.8.0
++ provider registry.terraform.io/hashicorp/azurerm v3.70.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 19 Feb 23 00:34 UTC
+## 13 Aug 23 00:51 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.5.2
+on linux_amd64
++ provider registry.terraform.io/azure/azapi v1.8.0
++ provider registry.terraform.io/hashicorp/azurerm v3.69.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 12 Feb 23 00:25 UTC
+## 06 Aug 23 00:57 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.5.1
+on linux_amd64
++ provider registry.terraform.io/azure/azapi v1.8.0
++ provider registry.terraform.io/hashicorp/azurerm v3.68.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
-## 05 Feb 23 00:40 UTC
+## 31 Jul 23 23:46 UTC
 
-Success: false
+Success: true
 
 ### Versions
 
-
+Terraform v1.5.1
+on linux_amd64
++ provider registry.terraform.io/azure/azapi v1.8.0
++ provider registry.terraform.io/hashicorp/azurerm v3.67.0
++ provider registry.terraform.io/hashicorp/random v3.5.1
 
 ### Error
 
 
-[0m[1mInitializing the backend...[0m
-[31m[31m╷[0m[0m
-[31m│[0m [0m[1m[31mError: [0m[0m[1mFailed to get existing workspaces: Error retrieving keys for Storage Account "<storage_account_name>": storage.AccountsClient#ListKeys: Invalid input: autorest/validation: validation failed: parameter=resourceGroupName constraint=Pattern value="<storage_account_resource_group>" details: value doesn't match pattern ^[-\w\._\(\)]+$[0m
-[31m│[0m [0m
-[31m│[0m [0m[0m
-[31m╵[0m[0m
-[0m[0m
 
 ---
 
