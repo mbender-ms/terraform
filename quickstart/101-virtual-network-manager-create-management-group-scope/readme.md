@@ -1,6 +1,6 @@
 # Azure Virtual Network Manager with management group scope
 
-This template deploys an Azure Virtual Network Manager instance with a connectivity configuration for a Mesh topology using a management group scope. It includes resources including virtual networks, subnets, and more.
+This template deploys an Azure Virtual Network Manager instance with a connectivity configuration for a Mesh topology using a management group scope. It includes resources including virtual networks, subnets, and other resources that are required to deploy a Virtual Network Manager instance. It also includes a policy assignment to ensure that the Virtual Network Manager instance is deployed with the correct permissions.
 
 ## Terraform resource types
 
